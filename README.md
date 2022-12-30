@@ -18,7 +18,7 @@ const aboutMe = {
          python: ["Django rest framework"],
          php : ["Laravel"]
       },
-      databases: ["PostgresSQL", "mySQL", "SQLServer"],
+      databases: ["PostgresSQL", "mySQL", "SQLServer"]
    },
    currentOccupation: ["Last year student, open for internship opportunities"],
 };
